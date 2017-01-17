@@ -140,15 +140,15 @@ return [
 
     'add_on' => [
 
-        'swagger'       => false,
+        'swagger'       => true,
 
         'tests'         => true,
 
-        'datatables'    => false,
+        'datatables'    => true,
 
         'menu'          => [
 
-            'enabled'       => false,
+            'enabled'       => true,
 
             'menu_file'     => 'layouts/menu.blade.php',
         ],
